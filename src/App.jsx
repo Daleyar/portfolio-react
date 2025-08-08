@@ -8,8 +8,8 @@ export default function App() {
       <div className="container">
         <Header>
           <nav className="nav">
-            {[["Home","/"],["Projects","/projects"],["Experience","/experience"],["Contact","/contact"]].map(([label,to])=>(
-              <NavLink key={label} to={to} end className={({isActive})=>isActive?"btn":""}>{label}</NavLink>
+            {[["Home", "/"], ["Projects", "/projects"], ["Experience", "/experience"], ["Contact", "/contact"]].map(([label, to]) => (
+              <NavLink key={label} to={to} end className={({ isActive }) => isActive ? "btn" : ""}>{label}</NavLink>
             ))}
           </nav>
         </Header>

@@ -1,6 +1,6 @@
 export const experience = [
   {
-    title: "Software Developer (Contract)",
+    title: "Software Engineer",
     company: "TD Bank",
     period: "2023–2025",
     summary: "Built APIs, validators, and integrations; emphasized reliability, clarity, and testability.",

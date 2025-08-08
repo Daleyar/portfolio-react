@@ -7,9 +7,9 @@ export default function Contact() {
       <p className="muted">Want to collaborate or have a role in mind? Reach out.</p>
       <div className="spacer"></div>
       <ul>
-        <li>Email: <a href="mailto:ali@example.com">ali@example.com</a></li>
+        <li>Email: <a href="mailto:ali.daley72@gmail.com">ali.daley72@gmail.com</a></li>
         <li>GitHub: <a href="https://github.com/Daleyar">github.com/Daleyar</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com">linkedin.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/alidaley/">linkedin.com</a></li>
       </ul>
     </section>
   );
