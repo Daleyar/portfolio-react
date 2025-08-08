@@ -1,0 +1,1 @@
+export function setTitle(title){ if(typeof document!=='undefined'){ document.title=title; } }
